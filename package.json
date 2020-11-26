@@ -1,0 +1,25 @@
+{
+  "name": "The-Ultimate-Random-Quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandeyaman/The-Ultimate-Random-Quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandeyaman/The-Ultimate-Random-Quiz/issues"
+  },
+  "homepage": "https://github.com/pandeyaman/The-Ultimate-Random-Quiz#readme",
+  "dependencies": {
+    "cfonts": "^2.8.6",
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
